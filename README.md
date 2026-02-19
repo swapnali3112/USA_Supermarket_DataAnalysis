@@ -2,7 +2,7 @@
  PYTHON Project for Data ANALYSIS - Exploratory Data Analysis | E-Commerce Sales Analysis
 
  Supermarket Data Analysis
-In this project, we'll be performing some exploratory data analysis on the sample supermarket data.
+In this project, we'll be performing some exploratory data analysis on the sample supermarket data. 
 
 Project objectives
 The following are the project objectives-
