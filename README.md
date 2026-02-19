@@ -35,6 +35,7 @@ A lower ratio denotes that the store has to make a lot more sales in order to ma
 States with a negative profit-to-sales ratio denote a higher loss on each sale they make.
 These insights can help the supermarket in determining which state needs more attention as compared to the others.
 
+![count of Order Priority](https://github.com/user-attachments/assets/8a69353c-91a9-4a1b-8329-4afdb3432415)
 
 
 
